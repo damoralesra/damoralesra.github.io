@@ -5,12 +5,12 @@
 freeze: true
 
 # Enable banner style title blocks
-title-block-banner: true
-
-# Default for table of contents
-toc: true
-toc-title: Contenido
-toc-location: left
+# title-block-banner: true
+# 
+# # Default for table of contents
+# toc: true
+# toc-title: Contenido
+# toc-location: left
   
 format:   
   html:
@@ -22,11 +22,11 @@ format:
         loading: lazy
         input-position: bottom
         language: es
-    quarto-template-params:
-      banner-header-class: "blog-post"
-    code-overflow: wrap
-    template-partials: 
-      - ../_partials/title-block-link-buttons/title-block.html
+    # quarto-template-params:
+    #   banner-header-class: "blog-post"
+    # code-overflow: wrap
+    # template-partials: 
+    #   - ../_partials/title-block-link-buttons/title-block.html
     
 # Default author
 # author:
