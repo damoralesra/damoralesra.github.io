@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>David Morales</title>
+<link>damoralesra.github.io/blog/index.html</link>
+<atom:link href="damoralesra.github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
+<description>Este en un blog donde se comparte información de data science.&lt;br&gt;
+Algunos blogs con utilidades de R y RStudio.
+</description>
+<image>
+<url>damoralesra.github.io/img/prueba.jpg</url>
+<title>David Morales</title>
+<link>damoralesra.github.io/blog/index.html</link>
+</image>
+<generator>quarto-1.3.353</generator>
+<lastBuildDate>Mon, 13 Nov 2023 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Último Blog</title>
+  <dc:creator>David Morales</dc:creator>
+  <link>damoralesra.github.io/blog/blog_03/index.html</link>
+  <description><![CDATA[ 
+
+<!-- source: https://github.com/gadenbuie/garrickadenbuie-com/blob/main/_partials/title-block-link-buttons/title-block.html -->
+<!-- 
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title"> 
+-->
+<!-- <header id="title-block-header" class="quarto-title-block default page-columns"> -->
+<!-- <div class="quarto-title page-columns page-full featured-image p-4" style="background-image: url(featured.png), url(featured.jpg), url(../featured.jpg);"> -->
+
+
+<section id="información" class="level2">
+<h2 class="anchored" data-anchor-id="información">Información</h2>
+<p><strong><em>Solo Texto</em></strong></p>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Volver arriba</a> ]]></description>
+  <category>programming</category>
+  <category>functional programming</category>
+  <category>r</category>
+  <guid>damoralesra.github.io/blog/blog_03/index.html</guid>
+  <pubDate>Mon, 13 Nov 2023 05:00:00 GMT</pubDate>
+  <media:content url="damoralesra.github.io/blog/blog_03/thumbnail.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Mi Blog #2</title>
+  <dc:creator>David Morales</dc:creator>
+  <link>damoralesra.github.io/blog/blog_02/index.html</link>
+  <description><![CDATA[ 
+
+<!-- source: https://github.com/gadenbuie/garrickadenbuie-com/blob/main/_partials/title-block-link-buttons/title-block.html -->
+<!-- 
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title"> 
+-->
+<!-- <header id="title-block-header" class="quarto-title-block default page-columns"> -->
+<!-- <div class="quarto-title page-columns page-full featured-image p-4" style="background-image: url(featured.png), url(featured.jpg), url(../featured.jpg);"> -->
+
+
+<section id="segundo-test-para-un-blog." class="level2">
+<h2 class="anchored" data-anchor-id="segundo-test-para-un-blog.">Segundo test para un blog.</h2>
+<p>Algo de código</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">1</span><span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span><span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">1</span></span></code></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>[1] 2</code></pre>
+</div>
+</div>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Volver arriba</a> ]]></description>
+  <category>programming</category>
+  <category>functional programming</category>
+  <category>r</category>
+  <category>technical</category>
+  <guid>damoralesra.github.io/blog/blog_02/index.html</guid>
+  <pubDate>Fri, 30 Jun 2023 05:00:00 GMT</pubDate>
+  <media:content url="damoralesra.github.io/blog/blog_02/thumbnail.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Blog #1</title>
+  <dc:creator>David Morales</dc:creator>
+  <link>damoralesra.github.io/blog/blog_01/index.html</link>
+  <description><![CDATA[ 
+
+<!-- source: https://github.com/gadenbuie/garrickadenbuie-com/blob/main/_partials/title-block-link-buttons/title-block.html -->
+<!-- 
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title"> 
+-->
+<!-- <header id="title-block-header" class="quarto-title-block default page-columns"> -->
+<!-- <div class="quarto-title page-columns page-full featured-image p-4" style="background-image: url(featured.png), url(featured.jpg), url(../featured.jpg);"> -->
+
+
+<section id="primer-test-para-un-blog" class="level2">
+<h2 class="anchored" data-anchor-id="primer-test-para-un-blog">Primer test para un blog</h2>
+<p>Algo de código</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1">pander<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">::</span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">pander</span>(<span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">head</span>(mtcars))</span></code></pre></div>
+<div class="cell-output-display">
+<table class="table table-sm table-striped small">
+<caption>Table continues below</caption>
+<colgroup>
+<col style="width: 30%">
+<col style="width: 8%">
+<col style="width: 7%">
+<col style="width: 8%">
+<col style="width: 7%">
+<col style="width: 8%">
+<col style="width: 10%">
+<col style="width: 10%">
+<col style="width: 6%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: center;">&nbsp;</th>
+<th style="text-align: center;">mpg</th>
+<th style="text-align: center;">cyl</th>
+<th style="text-align: center;">disp</th>
+<th style="text-align: center;">hp</th>
+<th style="text-align: center;">drat</th>
+<th style="text-align: center;">wt</th>
+<th style="text-align: center;">qsec</th>
+<th style="text-align: center;">vs</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><strong>Mazda RX4</strong></td>
+<td style="text-align: center;">21</td>
+<td style="text-align: center;">6</td>
+<td style="text-align: center;">160</td>
+<td style="text-align: center;">110</td>
+<td style="text-align: center;">3.9</td>
+<td style="text-align: center;">2.62</td>
+<td style="text-align: center;">16.46</td>
+<td style="text-align: center;">0</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><strong>Mazda RX4 Wag</strong></td>
+<td style="text-align: center;">21</td>
+<td style="text-align: center;">6</td>
+<td style="text-align: center;">160</td>
+<td style="text-align: center;">110</td>
+<td style="text-align: center;">3.9</td>
+<td style="text-align: center;">2.875</td>
+<td style="text-align: center;">17.02</td>
+<td style="text-align: center;">0</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><strong>Datsun 710</strong></td>
+<td style="text-align: center;">22.8</td>
+<td style="text-align: center;">4</td>
+<td style="text-align: center;">108</td>
+<td style="text-align: center;">93</td>
+<td style="text-align: center;">3.85</td>
+<td style="text-align: center;">2.32</td>
+<td style="text-align: center;">18.61</td>
+<td style="text-align: center;">1</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><strong>Hornet 4 Drive</strong></td>
+<td style="text-align: center;">21.4</td>
+<td style="text-align: center;">6</td>
+<td style="text-align: center;">258</td>
+<td style="text-align: center;">110</td>
+<td style="text-align: center;">3.08</td>
+<td style="text-align: center;">3.215</td>
+<td style="text-align: center;">19.44</td>
+<td style="text-align: center;">1</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><strong>Hornet Sportabout</strong></td>
+<td style="text-align: center;">18.7</td>
+<td style="text-align: center;">8</td>
+<td style="text-align: center;">360</td>
+<td style="text-align: center;">175</td>
+<td style="text-align: center;">3.15</td>
+<td style="text-align: center;">3.44</td>
+<td style="text-align: center;">17.02</td>
+<td style="text-align: center;">0</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><strong>Valiant</strong></td>
+<td style="text-align: center;">18.1</td>
+<td style="text-align: center;">6</td>
+<td style="text-align: center;">225</td>
+<td style="text-align: center;">105</td>
+<td style="text-align: center;">2.76</td>
+<td style="text-align: center;">3.46</td>
+<td style="text-align: center;">20.22</td>
+<td style="text-align: center;">1</td>
+</tr>
+</tbody>
+</table>
+<table class="table table-sm table-striped small">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 6%">
+<col style="width: 9%">
+<col style="width: 9%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: center;">&nbsp;</th>
+<th style="text-align: center;">am</th>
+<th style="text-align: center;">gear</th>
+<th style="text-align: center;">carb</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><strong>Mazda RX4</strong></td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">4</td>
+<td style="text-align: center;">4</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><strong>Mazda RX4 Wag</strong></td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">4</td>
+<td style="text-align: center;">4</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><strong>Datsun 710</strong></td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">4</td>
+<td style="text-align: center;">1</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><strong>Hornet 4 Drive</strong></td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">3</td>
+<td style="text-align: center;">1</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><strong>Hornet Sportabout</strong></td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">3</td>
+<td style="text-align: center;">2</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><strong>Valiant</strong></td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">3</td>
+<td style="text-align: center;">1</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Volver arriba</a> ]]></description>
+  <category>programming</category>
+  <category>functional programming</category>
+  <category>r</category>
+  <guid>damoralesra.github.io/blog/blog_01/index.html</guid>
+  <pubDate>Sun, 01 Jan 2023 05:00:00 GMT</pubDate>
+  <media:content url="damoralesra.github.io/blog/blog_01/thumbnail.jpg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>

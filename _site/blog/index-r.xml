@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>David Morales</title>
+<link>damoralesra.github.io/blog/index.html#category=R</link>
+<atom:link href="damoralesra.github.io/blog/index-r.xml" rel="self" type="application/rss+xml"/>
+<description>Este en un blog donde se comparte información de data science.&lt;br&gt;
+Algunos blogs con utilidades de R y RStudio.
+</description>
+<image>
+<url>damoralesra.github.io/img/prueba.jpg</url>
+<title>David Morales</title>
+<link>damoralesra.github.io/blog/index.html#category=R</link>
+</image>
+<generator>quarto-1.3.353</generator>
+<lastBuildDate>Fri, 22 Dec 2023 22:54:10 GMT</lastBuildDate>
+</channel>
+</rss>
