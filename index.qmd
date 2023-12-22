@@ -1,11 +1,81 @@
 ---
-title: "damoralesra.github.io"
+comments: false
+page-layout: full
+format:
+  html: 
+    margin-top: 0em
+    margin-bottom: 0em
+    minimal: true
+    smooth-scroll: true
+    fig-responsive: true
+listing:
+  id: blog-listing
+  contents:
+    - "blog/blog_01/index.qmd"
+    - "blog/blog_02/index.qmd"
+    - "blog/blog_03/index.qmd"
+  sort: "date desc"
+  type: grid
+  max-items: 3
+  grid-columns: 3
+  fields: [image, date, title]
+lang: es
 ---
 
-This is a Quarto website.
+:::{.column-screen}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+```{=html}
+<link rel="stylesheet" href="html/index_page.css">
 
-```{r}
-1 + 1
+<div class="gradient_bg">
+    <div class="hero section_padding">
+        <div class="hero_content">
+            <h1>Hola. Soy David Morales.</h1>
+            <p>Soy un zootecnista apasionado por la análitica y la ciencia de datos.
+                Busco aplicar estas pasiones a las ciencias agrarias y el sector agropecuario del país y del mundo.</p>
+        </div>
+        <div class="hero_image">
+            <img src="/img/foto.png"/>
+        </div>
+    </div>
+</div>
 ```
+
+:::
+
+```{=html}
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+
+<h1>Habilidades</h1> 
+<p>
+<i class="fab fa-r-project"></i>
+R
+</p> 
+<div class="container"> 
+    <div class="skill r-project">70%</div> 
+</div> 
+
+<p>
+<i class="fab fa-python"></i>
+Python
+</p> 
+<div class="container"> 
+    <div class="skill python">20%</div> 
+</div>
+
+<p>
+<i class="fa fa-code-branch"></i>
+Data Science
+</p> 
+<div class="container"> 
+    <div class="skill data-scn">40%</div> 
+</div> 
+```
+
+## Blogs recomendados
+
+:::{#blog-listing}
+:::
+
+
+

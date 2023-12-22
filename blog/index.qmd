@@ -1,0 +1,34 @@
+---
+title: "Curiosidades"
+title-block-banner: false
+page-layout: full
+description: |
+  Este en un blog donde se comparte información de data science.<br>
+  Parte 2.
+listing: 
+  contents: 
+    - "**/index.qmd"
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+  fields: [title, author, categories, date, image]
+  # image-placeholder: sidebar.jpg
+  # image-align: right
+  page-size: 5
+  feed:
+    categories: [R]
+citation: false
+toc: false
+comments: false
+format: 
+  html: 
+    page-layout: full
+lang: es
+code-tools: false
+
+---
+
+
+

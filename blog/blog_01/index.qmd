@@ -1,0 +1,21 @@
+---
+title: "Blog #1"
+author: David Morales
+description: "Prueba para publicar un blog."
+date: "2023-01-01"
+categories: 
+  - programming
+  - functional programming
+  - r
+  # - technical
+image: thumbnail.jpg
+---
+
+## Primer test para un blog
+
+Algo de código
+
+```{r}
+pander::pander(head(mtcars))
+```
+

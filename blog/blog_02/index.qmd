@@ -1,0 +1,22 @@
+---
+title: "Mi Blog #2"
+author: David Morales
+description: "Mi segundo Blog"
+date: "2023-06-30"
+categories: 
+  - programming
+  - functional programming
+  - r
+  - technical
+image: thumbnail.jpg
+
+---
+
+## Segundo test para un blog.
+
+Algo de código
+
+```{r}
+1+1
+```
+

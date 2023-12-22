@@ -1,0 +1,14 @@
+{
+  "hash": "be7743df11496eb983164a26cc326d39",
+  "result": {
+    "markdown": "---\ntitle: \"Mi Blog #2\"\ndescription: \"Mi segundo Blog\"\ndate: 30-06-2023\ncategories: \n  - programming\n  - functional programming\n  - r\n  - technical\nimage: thumbnail.jpg\ndraft: false\nnumber-sections: false\nformat:\n  html:\n    fig-cap-location: bottom\n    # include-before-body: ../../html/margin_image.html\n    # include-after-body: ../../html/blog_footer.html\n    comments: false\neditor: \n  markdown: \n    wrap: sentence\n---\n\n\n## Segundo test para un blog.\n\nAlgo de código\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1+1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

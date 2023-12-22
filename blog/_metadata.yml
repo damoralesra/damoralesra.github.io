@@ -1,0 +1,35 @@
+# options specified here will apply to all posts in this folder
+
+# freeze computational output
+# (see https://quarto.org/docs/projects/code-execution.html#freeze)
+execute:
+  freeze: auto
+
+# Enable banner style title blocks
+title-block-banner: true
+
+# Default for table of contents
+toc: true
+toc-title: Contenido
+toc-location: left
+  
+format:   
+  html:
+    # code-tools: true
+    comments:
+      giscus:
+        repo: damoralesra/damoralesra.github.io
+        category: Anuncios
+        loading: lazy
+        input-position: bottom
+        language: es
+    quarto-template-params:
+      banner-header-class: "blog-post"
+    code-overflow: wrap
+    template-partials: 
+      - ../_partials/title-block-link-buttons/title-block.html
+    
+# Default author
+# author:
+#   - name: David Morales
+lang: es

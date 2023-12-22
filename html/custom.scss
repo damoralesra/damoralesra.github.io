@@ -1,0 +1,95 @@
+/*-- scss:defaults --*/
+
+/* From https://github.com/andrewheiss/ath-quarto/blob/main/html/ath.scss */
+
+
+/* FONTS */
+@import url('https://fonts.googleapis.com/css?family=Montserrat:600|Roboto:300&display=swap');
+
+// Paletas de colores https://palx.jxnblk.com/
+
+$white:  #fff;
+$gray-0: #f9f9f9;
+$gray-1: #eceeee;
+$gray-2: #dfe1e1;
+$gray-3: #d0d4d3;
+$gray-4: #c0c5c4;
+$gray-5: #aeb4b3;
+$gray-6: #99a1a0;
+$gray-7: #818b8a;
+$gray-8: #626f6d;
+$gray-9: #334240;
+$black:  #000;
+
+// colors
+$cyan:       #8bbcb6;
+$teal:       #70ad86;
+$teal-light: #d2e5d9;
+$cyan-dark:  #16796c;
+$blue:       #83a4b8;
+$blue-light: #b2c7d3;
+$blue-dark:  #3d7290;
+
+$primary:       $teal;
+$secondary:     $blue-dark;
+$light:         $teal-light;
+$light-accent:  $gray-3;
+$dark:          $gray-9;
+
+// Base document colors
+$navbar-bg: $cyan; // navbar
+$navbar-fg: $teal-light; // navbar foreground elements
+$navbar-hl: $white; // highlight color when hovering over navbar links
+$link-color: $blue-dark; // hyperlinks
+
+// Inline code
+$code-bg: $blue-light; // inline code background color
+$code-color: $blue-dark; // inline code text color
+
+// Contrast
+$min-contrast-ratio: 7;
+
+/*-- scss:rules --*/
+
+.navbar-title {
+  font-family: Roboto, serif;
+  font-weight: 700;
+}
+
+h1, h2 {
+  font-size: 1.3em;
+  font-weight: 900;
+  font-family: Roboto, serif;
+  color: $cyan-dark;
+}
+
+h2 {
+  font-size: 1.2em;
+}
+
+h3, h4 {
+  font-weight: 700;
+  font-family: Roboto, serif;
+  color: $teal;
+}
+
+h3 {
+  font-size: 1.15em;
+}
+
+h4 {
+  font-size: 1.1em;
+}
+
+h5, h6 {
+  font-size: 1.05em;
+  font-weight: 600;
+  font-family: Roboto, serif;
+  color: $secondary;
+}
+
+.btn-primary {
+    color: #000;
+    background-color: $cyan;
+    border-color: $cyan;
+}

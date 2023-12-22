@@ -1,19 +1,41 @@
 project:
   type: website
+  
+  # resources:
+  #   - "img/**"
 
 website:
-  title: "damoralesra.github.io"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+  title: "David Morales"
+  description: "Website de David Morales"
+  site-url: damoralesra.github.io
+  repo-url: https://github.com/damoralesra/damoralesra.github.io
+  page-navigation: true
+  back-to-top-navigation: true
+  image: "img/prueba.jpg"
+  
+  navbar: 
+    left: 
+      - text: Inicio
+        icon: person-lines-fill
+        href: index.qmd
+      - text: Hoja de Vida
+        icon: file-earmark-person-fill
+        href: CV/cv.qmd
+      - text: Blog
+        icon: pencil-square
+        href: blog/index.qmd
+        
+    right:
+      - icon: github
+        href: https://github.com/damoralesra
+        target: _blank
+      - icon: envelope
+        href: "mailto:damoralesra@unal.edu.co"
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
-    toc: true
-
-
+    theme: [cosmo, html/custom.scss]
+lang: es
+execute:
+  freeze: auto
 
