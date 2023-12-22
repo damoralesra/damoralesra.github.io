@@ -20,7 +20,7 @@ website:
         href: index.qmd
       - text: Hoja de Vida
         icon: file-earmark-person-fill
-        href: CV/cv.qmd
+        href: CV/index.qmd
       - text: Blog
         icon: pencil-square
         href: blog/index.qmd
