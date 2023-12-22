@@ -1,0 +1,18 @@
+[
+  {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/blog_03/index.html",
+      "/blog/blog_02/index.html",
+      "/blog/blog_01/index.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/blog/blog_03/index.html",
+      "/blog/blog_02/index.html",
+      "/blog/blog_01/index.html"
+    ]
+  }
+]
