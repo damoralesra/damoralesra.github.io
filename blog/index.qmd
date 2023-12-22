@@ -4,7 +4,7 @@ title-block-banner: false
 page-layout: full
 description: |
   Este en un blog donde se comparte información de data science.<br>
-  Parte 2.
+  Algunos blogs con utilidades de R y RStudio.
 listing: 
   contents: 
     - "**/index.qmd"
