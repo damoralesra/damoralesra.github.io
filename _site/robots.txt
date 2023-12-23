@@ -1,1 +1,1 @@
-Sitemap: damoralesra.github.io/sitemap.xml
+Sitemap: https://moralesdavid.netlify.app/sitemap.xml

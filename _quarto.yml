@@ -7,8 +7,11 @@ project:
 website:
   title: "David Morales"
   description: "Website de David Morales"
-  site-url: damoralesra.github.io
+  site-url: https://moralesdavid.netlify.app/
   repo-url: https://github.com/damoralesra/damoralesra.github.io
+  repo-actions:
+    - source
+    - issue
   page-navigation: true
   back-to-top-navigation: true
   image: "img/prueba.jpg"
